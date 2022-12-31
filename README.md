@@ -1,4 +1,4 @@
-# Counter App (blazor & csharp)
+# Counter App ( blazor & C# )
 ![Tools & Technologies](https://img.shields.io/badge/-Tools%20%26%20Technologies-grey?style=flat-square)
 
 ![Blazor](https://img.shields.io/badge/-@blazor-blueviolet?style=flat-square)
